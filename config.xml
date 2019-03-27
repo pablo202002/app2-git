@@ -5,14 +5,14 @@
    id  = "com.phonegap.app2"
    version ="1.0.0">
    
-   <name> app2-Especialidad en Programación</name>
+   <name> app2-Especialidad  Tecnico en Programación</name>
    
    <description>
    Aplicacion que muestra informacion sobre la especialidad de Técnico en Programación CBTis 16
    </description>
    
    <author href="https://build.phonegap.com" email="pablinskyprogg@gmail.com">
-     Juan Pablo 
+     Juan Pablo Tepepa Flores 
    </author>
    
    <!--Personaliza la aplicacion y plataforma -->
